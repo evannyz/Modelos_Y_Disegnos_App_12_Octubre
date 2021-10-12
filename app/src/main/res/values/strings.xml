@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">diseñosYModelosApp</string>
+    <string name="nombre_login">Nombre</string>
+    <string name="apellido_login">Apellido</string>
+    <string name="email_login">Email:</string>
+    <string name="password_login">Password:</string>
+    <string name="btn_crear_cuenta">Crear Cuenta</string>
+</resources>
