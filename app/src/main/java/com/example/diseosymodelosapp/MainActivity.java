@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
     private void loadImageGlide() {
         Glide.with(this)
                 .load("https://smallimg.pngkey.com/png/small/127-1271587_one-piece-v2-icon-anime-one-piece.png")
+                .circleCrop()
                 .into(ivAvatarInferior);
     }
 
